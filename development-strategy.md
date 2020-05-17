@@ -1,6 +1,6 @@
 # Development Strategy
 
-> `name-of-project`
+> `trategic-layout`
 
 write a short description of your project:
 - who would want to use it?
@@ -10,7 +10,7 @@ write a short description of your project:
 
 <!-- include a wireframe for your project in this repository, and display it here -->
 <!-- wireframe.cc is a good site for getting started with wireframes -->
-![wireframe]()
+![wireframe](wireframe-gif)
 
 ## 0. Set-Up
 
